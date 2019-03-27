@@ -1,2 +1,2 @@
 # LoginSpringJWT
-Login com o Spring Security e padrão JWT
+Login com a ferramenta Spring utilizando JWT
